@@ -1,0 +1,6 @@
+@jwtDb_HostAddress = http://localhost:5171
+
+GET {{jwtDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
